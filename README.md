@@ -43,9 +43,9 @@ print("check complete")
 
 ### Concept Table
 
-|python concept|
-|---|---|---|---|---|---|
+
 | name | Definition | syntax | Key Features | purpose |
+|---|---|---|---|---|
 | Variable | store value | x=y | refers to different data type| store value|
 | list | store multiple values of different data types | list=[1,2,"hello"]| can store different data type|  manage multiple items |
 | slice | get part of sequence | message[start:stop :step| create new object and manage it| get specific items from a object|
