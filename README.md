@@ -7,3 +7,43 @@
   'A list is a built-in data structure that can store *multiple values* of different data types.'
 3. 'dictionary':
   'A dictionary is a built-in data structure that stores data in ***key-value pairs***.'
+
+---
+
+## string methods!
+- .upper()
+- .lower()
+- .title()
+
+--- 
+
+### more concept
+To learn more concept about ==python==, you can click this link! 😆
+[w3school](https://www.w3schools.com/)
+
+---
+
+### Examples~！
+
+```
+temperatures = [24, 27, 31, 35]
+index = 0
+
+while index < len(temperatures):
+    temperature = temperatures[index]
+    if temperature >= 30 :
+        print("Alert", temperature)
+        break
+    print("normal", temperature)
+    index += 1
+print("check complete")
+```
+
+--- 
+
+### Concept Table
+
+| name | Definition | syntax | Key Features | purpose |
+| Variable | store value | x=y | refers to different data type| store value|
+| list | store multiple values of different data types | list=[1,2,"hello"]| can store different data type|  manage multiple items |
+| slice | get part of sequence | message[start:stop :step| create new object and manage it| get specific items from a object|
