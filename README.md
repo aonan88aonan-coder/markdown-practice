@@ -26,6 +26,8 @@ To learn more concept about python, you can click this link! 😆
 ### Examples~！
 
 ```
+This example uses a `while` loop to check temperatures and `break` to stop the loop.
+
 temperatures = [24, 27, 31, 35]
 index = 0
 
@@ -36,7 +38,7 @@ while index < len(temperatures):
         break
     print("normal", temperature)
     index += 1
-print("check complete")
+    print("check complete")
 ```
 
 --- 
