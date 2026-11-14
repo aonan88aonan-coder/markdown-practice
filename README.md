@@ -25,9 +25,8 @@ To learn more concept about python, you can click this link! 😆
 
 ### Examples~！
 
-```
 This example uses a `while` loop to check temperatures and `break` to stop the loop.
-
+```
 temperatures = [24, 27, 31, 35]
 index = 0
 
