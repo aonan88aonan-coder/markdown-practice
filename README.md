@@ -18,7 +18,7 @@
 --- 
 
 ### more concept
-To learn more concept about ==python==, you can click this link! 😆
+To learn more concept about python, you can click this link! 😆
 [w3school](https://www.w3schools.com/)
 
 ---
